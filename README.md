@@ -17,6 +17,8 @@ Skills: Java, C++, Python, React, CSS
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=akilapilapitiya&show_icons=true) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akilapilapitiya)](https://github.com/anuraghazra/github-readme-stats)
 
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/akilapilapitiya/contributions?format=svg&private=false)  
+
 
 
 
