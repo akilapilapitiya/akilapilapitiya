@@ -14,7 +14,8 @@ Skills: Java, C++, Python, React, CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/akilapilapitiya)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/akila-pilapitiya/)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=akilapilapitiya&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=akilapilapitiya&show_icons=true) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akilapilapitiya)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
