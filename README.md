@@ -12,20 +12,6 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/MIPS-525252?style=for-the-badge&logoColor=white" alt="MIPS Assembly"/>
-</p>
-
----
-
-### 🚀 Projects
-| Project | Description |
-|--------|-------------|
-| [MyPortfolio](https://github.com/akilapilapitiya/myportfolio) | My personal website built with React.js |
-| [ToDoApp](https://github.com/akilapilapitiya/todo-app) | A simple task management app using React & local storage |
-| [MIPS Practice](https://github.com/akilapilapitiya/mips-practice) | A collection of MIPS Assembly practice exercises |
-
 ---
 
 ### 📈 GitHub Stats
@@ -39,20 +25,17 @@
 ---
 
 ### 🔍 About Me
-- 🎓 I’m currently a **university student** studying Computer Science / IT.
-- 🌱 I’m focusing on **React.js** and improving my frontend skills.
-- 💬 Ask me about **Java**, **C++**, **Python**, or **Assembly**.
-- ⚡ Fun fact: I love understanding how things work under the hood—from assembly to full-stack apps!
-
+- 🎓 I’m currently a **university student** studying **Information Technology** at **University of Kelaniya Sri Lanka**.
+- 💬 Ask me about **Java**, **C++** or **Assembly**.
 ---
 
 ### 📫 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-link" target="_blank">
+  <a href="[https://linkedin.com/in/your-link](https://www.linkedin.com/in/akila-pilapitiya/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:akilapilapitiya3@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
