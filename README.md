@@ -13,7 +13,7 @@ I’m a developer who thrives at the intersection of logic and creativity. I don
   <img src="https://skillicons.dev/icons?i=discord">
 </a>
 <a href="https://stackoverflow.com/users/32215777" target="_blank">
-  <img src="https://skillicons.dev/icons?i=discord">
+  <img src="https://skillicons.dev/icons?i=stackoverflow">
 </a>
 
 ## Languages and Tools
