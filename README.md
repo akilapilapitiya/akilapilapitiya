@@ -9,6 +9,9 @@ I’m a developer who thrives at the intersection of logic and creativity. I don
 <a href="mailto:akilapilapitiya3@gmail.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=gmail">
 </a>
+<a href="https://discord.com/channels/@akilapilapitiya" target="_blank">
+  <img src="https://skillicons.dev/icons?i=discord">
+</a>
 
 
 ## Languages and Tools
