@@ -5,10 +5,12 @@ I build clean, user-focused software by combining creative thinking with strong 
 I enjoy turning real-world problems into practical digital products that are simple, efficient, and reliable.
 
 ## Current Projects
-- [The Washing Machine](https://github.com/akilapilapitiya/The_Washing_Machine.git) - A smart laundry workflow platform designed to improve washing-cycle planning and everyday usability.
+- [The Washing Machine](https://github.com/akilapilapitiya/The_Washing_Machine.git) - A Home visit Supported Vehicle Service Management System.
+- [Leave Management System](https://github.com/akilapilapitiya/Leave-Management-System.git) - A Customizable Leave management Microservice.
 
 ## Archived Projects
-- [Grain Store Management System](https://github.com/akilapilapitiya/Grain_Store_Management_System.git) - A system for managing grain inventory, storage records, and day-to-day operational tracking.
+- [Grain Store Management System](https://github.com/akilapilapitiya/Grain_Store_Management_System.git) - A Sytem to Manage a chain of Linked Grain Stores
+- [Bouncy Ball](https://github.com/akilapilapitiya/Bouncy_Ball.git) - A Terminal Drawn Game.
 
 ## 🛠 Tech Stack
 
@@ -24,9 +26,9 @@ I enjoy turning real-world problems into practical digital products that are sim
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
 ## 🌱 What I’m Doing
-- Building practical full-stack applications with TypeScript-first workflows
-- Improving backend architecture and API design with Java and Spring Boot
-- Exploring product-focused development with React, Node.js, and Next.js
+- Building practical full-stack applications
+- Developments to easy day to day workflow
+- Existing Product Improvements
 
 ## 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Akila%20Pilapitiya-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akila-pilapitiya)
