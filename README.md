@@ -1,8 +1,7 @@
-# Akila Pilapitiya
+# 🦁 Akila Pilapitiya
+`Curiosity leads to Creativity`
 
-Curiosity leads to Creativity
-
-I’m a developer who enjoys building clean, efficient, user-focused digital experiences by blending logic with creativity.
+I’m a developer who thrives at the intersection of logic and creativity. I don't just write code, I build digital experiences that are clean, efficient, and user-centric. I believe in the power of **learning by doing** and am constantly pushing my boundaries with new frameworks and tools.
 
 ## What I’m Doing
 Currently focused on building practical full-stack projects, improving system design skills, and learning by shipping real-world solutions.
@@ -15,11 +14,11 @@ Currently focused on building practical full-stack projects, improving system de
 ### Tools & Platforms
 [![Tools](https://skillicons.dev/icons?i=react,spring,nodejs,nextjs)](https://skillicons.dev)
 
-## Current Project
+## Currently Working On Projects
 - **The Washing Machine** - A smart laundry workflow application focused on efficient washing-cycle management and user-friendly interactions.  
   [Repository](https://github.com/akilapilapitiya/The_Washing_Machine.git)
 
-## Archived Project
+## Archived Projects
 - **Grain Store Management System** - A management system for handling grain inventory, storage records, and operational tracking.  
   [Repository](https://github.com/akilapilapitiya/Grain_Store_Management_System.git)
 
