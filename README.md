@@ -4,6 +4,7 @@
 <br>
 Building practical full-stack applications, focused on simplifying daily workflows and enhancing existing products.
 
+---
 ## Current Projects
 - [CLEO](https://github.com/akilapilapitiya/CLEO.git) - Personalized Coding Agent Orchestrator
 - [DeveloperOS](https://github.com/akilapilapitiya/DeveloperOS_Preview.git) - Code Manager for Student Devs.
@@ -15,6 +16,7 @@ Building practical full-stack applications, focused on simplifying daily workflo
 - [Bouncy Ball](https://github.com/akilapilapitiya/Bouncy_Ball.git) - A Terminal Drawn Game.
 - [Smart Scheduler](https://github.com/akilapilapitiya/Smart-Scheduler.git) - AI Powered Scheduling Telegram Bot
 
+---
 ## 🛠 Tech Stack
 
 ### Languages
@@ -28,11 +30,13 @@ Building practical full-stack applications, focused on simplifying daily workflo
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
+---
 ## 🌱 What I’m Doing
-- Exploring agents — pushing how autonomous systems reshape development
-- Watching & digging — finding where this space is actually going
-- Playing with code — experimenting, breaking, and figuring things out
+- Exploring Agents - pushing how autonomous systems reshape development
+- Watching & Digging - finding where this space is actually going
+- Playing with Code - experimenting, breaking, and figuring things out
 
+---
 ## 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Akila%20Pilapitiya-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akila-pilapitiya)
 [![Gmail](https://img.shields.io/badge/Gmail-akilapilapitiya3%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:akilapilapitiya3@gmail.com)
