@@ -1,6 +1,7 @@
 # 🦁 Akila Pilapitiya
 
-<**Patch it clean, fix it smooth and ship it right!**>
+**Patch it clean, fix it smooth and ship it right!**
+<br>
 Building practical full-stack applications, focused on simplifying daily workflows and enhancing existing products.
 
 ## Current Projects
@@ -28,9 +29,9 @@ Building practical full-stack applications, focused on simplifying daily workflo
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
 ## 🌱 What I’m Doing
-- Building practical full-stack applications
-- Developments to easy day to day workflow
-- Existing Product Improvements
+- Exploring agents — pushing how autonomous systems reshape development
+- Watching & digging — finding where this space is actually going
+- Playing with code — experimenting, breaking, and figuring things out
 
 ## 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Akila%20Pilapitiya-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akila-pilapitiya)
