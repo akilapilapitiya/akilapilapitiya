@@ -1,10 +1,16 @@
 # 🦁 Akila Pilapitiya
-`Curiosity leads to Creativity`
+Curiosity leads to Creativity
 
-I’m a developer who thrives at the intersection of logic and creativity. I don't just write code, I build digital experiences that are clean, efficient, and user-centric. I believe in the power of **learning by doing** and am constantly pushing my boundaries with new frameworks and tools.
+I build clean, user-focused software by combining creative thinking with strong engineering fundamentals.
+I enjoy turning real-world problems into practical digital products that are simple, efficient, and reliable.
 
-## What I’m Doing
-Currently focused on building practical full-stack projects, improving system design skills, and learning by shipping real-world solutions.
+## Current Projects
+- **The Washing Machine** - A smart laundry workflow platform designed to improve washing-cycle planning and everyday usability.  
+  Repository: https://github.com/akilapilapitiya/The_Washing_Machine.git
+
+## Legacy Projects
+- **Grain Store Management System** - A system for managing grain inventory, storage records, and day-to-day operational tracking.  
+  Repository: https://github.com/akilapilapitiya/Grain_Store_Management_System.git
 
 ## 🛠 Tech Stack
 
@@ -14,16 +20,13 @@ Currently focused on building practical full-stack projects, improving system de
 ### Tools & Platforms
 [![Tools](https://skillicons.dev/icons?i=react,spring,nodejs,nextjs)](https://skillicons.dev)
 
-## Currently Working On Projects
-- **The Washing Machine** - A smart laundry workflow application focused on efficient washing-cycle management and user-friendly interactions.  
-  [Repository](https://github.com/akilapilapitiya/The_Washing_Machine.git)
+## 🌱 What I’m Doing
+- Building practical full-stack applications with TypeScript-first workflows
+- Improving backend architecture and API design with Java and Spring Boot
+- Exploring product-focused development with React, Node.js, and Next.js
 
-## Archived Projects
-- **Grain Store Management System** - A management system for handling grain inventory, storage records, and operational tracking.  
-  [Repository](https://github.com/akilapilapitiya/Grain_Store_Management_System.git)
-
-## Connect With Me
-- LinkedIn: [linkedin.com/in/akila-pilapitiya](https://www.linkedin.com/in/akila-pilapitiya)
-- Email: [akilapilapitiya3@gmail.com](mailto:akilapilapitiya3@gmail.com)
-- Stack Overflow: [stackoverflow.com/users/32215777](https://stackoverflow.com/users/32215777)
-- X: [x.com/PilapitiyaAkila](https://x.com/PilapitiyaAkila)
+## 📫 Connect
+- LinkedIn: https://www.linkedin.com/in/akila-pilapitiya
+- Email: mailto:akilapilapitiya3@gmail.com
+- Stack Overflow: https://stackoverflow.com/users/32215777
+- X: https://x.com/PilapitiyaAkila
