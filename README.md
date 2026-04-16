@@ -4,8 +4,8 @@
 <br>
 Building practical full-stack applications, focused on simplifying daily workflows and enhancing existing products.
 
-<img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=flat-square&amp;logo=vercel&amp;logoColor=white" alt="Portfolio">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn">
+<img src="https://img.shields.io/static/v1?label=Portfolio&amp;message=&amp;color=FF5722&amp;style=flat-square" alt="Portfolio">
+<img src="https://img.shields.io/static/v1?label=LinkedIn&amp;message=&amp;color=0A66C2&amp;style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn">
 ---
 ## Current Projects
 - [CLEO](https://github.com/akilapilapitiya/CLEO.git) - Personalized Coding Agent Orchestrator
