@@ -1,16 +1,15 @@
 # 🦁 Akila Pilapitiya
-`Curiosity leads to Creativity`
 
-I build clean, user-focused software by combining creative thinking with strong engineering fundamentals.  
-I enjoy turning real-world problems into practical digital products that are simple, efficient, and reliable.
+<**Patch it clean, fix it smooth and ship it right!**>
+Building practical full-stack applications, focused on simplifying daily workflows and enhancing existing products.
 
 ## Current Projects
 - [CLEO](https://github.com/akilapilapitiya/CLEO.git) - Personalized Coding Agent Orchestrator
-- [The Washing Machine](https://github.com/akilapilapitiya/The_Washing_Machine.git) - A Home visit Supported Vehicle Service Management System.
-- [Leave Management System](https://github.com/akilapilapitiya/Leave-Management-System.git) - A Customizable Leave management Microservice.
 - [DeveloperOS](https://github.com/akilapilapitiya/DeveloperOS_Preview.git) - Code Manager for Student Devs.
 
 ## Archived Projects
+- [The Washing Machine](https://github.com/akilapilapitiya/The_Washing_Machine.git) - A Home visit Supported Vehicle Service Management System.
+- [Leave Management System](https://github.com/akilapilapitiya/Leave-Management-System.git) - A Customizable Leave management Microservice.
 - [Grain Store Management System](https://github.com/akilapilapitiya/Grain_Store_Management_System.git) - A Sytem to Manage a chain of Linked Grain Stores
 - [Bouncy Ball](https://github.com/akilapilapitiya/Bouncy_Ball.git) - A Terminal Drawn Game.
 - [Smart Scheduler](https://github.com/akilapilapitiya/Smart-Scheduler.git) - AI Powered Scheduling Telegram Bot
